@@ -1,7 +1,6 @@
 # Data Analysis pynbs
 A set of Google colab notebooks with my work on data analysis
 ## Unemployment analysis
-<br>
 Link for unemployment analysis ipynb in colab: https://colab.research.google.com/drive/1bsbsy8mJooskq0CDWnKiFohstFpCoU9V?usp=sharing<br>
 ## FER dataset analysis
 Link for FER dataset ML & DL models performance analysis:<br>
